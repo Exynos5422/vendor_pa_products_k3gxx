@@ -9,7 +9,7 @@
         "remote":       "github",
         "repository":   "Exynos5422/vendor_pa_products_k3gxx",
         "target_path":  "vendor/pa/products/k3gxx",
-        "revision":     "nougat-mr2"
+        "revision":     "master"
     },
     {
         "remote":       "github",
