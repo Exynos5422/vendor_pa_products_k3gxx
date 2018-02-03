@@ -52,5 +52,23 @@
         "repository":   "TheMuppets/proprietary_vendor_samsung",
         "target_path":  "vendor/samsung",
         "revision":     "cm-14.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_device_generic_goldfish",
+        "target_path":  "device/generic/goldfish",
+        "revision":     "cm-13.0"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_packages_resources_devicesettings",
+        "target_path":  "packages/resources/devicesettings",
+        "revision":     "cm-14.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_packages_apps_SamsungServiceMode",
+        "target_path":  packages/apps/SamsungServiceMode",
+        "revision":     "cm-14.1"
     }
 ]
